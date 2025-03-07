@@ -1,1 +1,0 @@
-# smart-drug-label-analyser
